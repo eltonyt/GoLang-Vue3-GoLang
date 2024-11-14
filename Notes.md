@@ -617,3 +617,9 @@ Instructor - Trevor Sawler - St. Thomas Associate Professor
             }
             
             ```
+### Section 6 - Authentication
+
+- Database Setup - Postgres DB through Docker
+    - When running command in my local environment, use the command `"C:\Program Files\Docker\DOCKER_COMPOSE\docker-compose.exe" up -d` through CMD
+        - Docker-compose - *Compose simplifies the control of your entire application stack, making it easy to manage services, networks, and volumes in a single, comprehensible YAML configuration file. Then, with a single command, you create and start all the services from your configuration file.*
+    - Postgres DB Management Tool - Beekeeper Studio
